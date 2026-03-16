@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://meng-yu-gao.github.io//sitemap.xml
+Sitemap: https://meng-yu-gao.github.io/page/./sitemap.xml
